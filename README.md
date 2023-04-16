@@ -1,9 +1,3 @@
-1)Your respective problem statement.
-2)Your team name and details(eg. names of members etc.)
-3)Your idea and approach used in implementing it.
-4)Mention the tech stack you are using.
-5)If project is deployed then provide the URL, if not, then provide screen recordings and screenshots.
-
 ### Table of Contents
 
 | No. | Questions                                                                                        |
@@ -17,38 +11,46 @@
 1. ### Our respective problem statement
 2. ### Our team name and details
 
-   | Name                  | Questions |
-   | --------------------- | --------- |
-   | Ayan De (Team Leader) |           |
-   | Sayan De              |           |
-   | Ujjal Manna           |           |
-   | Sovan Bakshi          |           |
+   | Name                  | Roles                 | GitHub                                      | Email                                   |
+   | --------------------- | --------------------- | ------------------------------------------- | --------------------------------------- |
+   | Ayan De (Team Leader) | Back-End Development  | [Ayan](https://github.com/ayan-de)          | [Ayan](mailto:deayan252@gmail.com)      |
+   | Sayan De              | Front-End Development | [Sayan](https://github.com/sayande2002)     | [Sayan](mailto:sayandeten@gmail.com)    |
+   | Ujjal Manna           | UI Development        | [Ujjal](https://github.com/UJJALMANNA)      | [Ujjal](mailto:mannaujjal683@gmail.com) |
+   | Sovan Bakshi          | UX Development        | [Sovan](https://github.com/sovanbakshi2004) | [Sovan](mailto:bakshisovan1@gmail.com)  |
 
 3. ### Our idea and approach used in implementing it
 4. ### Mention the tech stack you are using
 
-   ## 📌 Technologies used 🛠️
+   ## 📌 Main Technologies used 🛠️
 
-   - [MongoDB](https://reactjs.org) - Javascript library
-   - [ExpressJS](https://reactjs.org) - Javascript Framework
-   - [ReactJS](https://reactjs.org) - Used in Front-End
-   - [NodeJS](https://reactjs.org) - Javascript library
-   - [Mongoose](https://reactjs.org) - Javascript library
+   - [MongoDB](https://reactjs.org) - Database
+   - [ExpressJS](https://reactjs.org) - NodeJs Framework
+   - [ReactJS](https://reactjs.org) - Javascript library for Front-End
+   - [NodeJS](https://reactjs.org) - Javascript library for Back-End
+   - [Mongoose](https://reactjs.org) - MongoDB Framework
 
-   ## 📌 Front-End Libraries used 🛠️
+## 📌 Other Front-End Libraries used 🛠️
 
 - [react-router-dom](https://www.npmjs.com/package/react-router) - Used for Routing
-- [TailwindCSS](https://www.w3.org/Style/CSS/Overview.en.html) - Used for Styling in CSS
-- [react-hook-form](https://react-icons.github.io/react-icons/) - Used for form handling
-- [hookform/resolvers](https://react-icons.github.io/react-icons/) - Used for form validation
-- [react-timer-hook](https://react-icons.github.io/react-icons/) - Used for timer clok
-- [react-tippy](https://react-icons.github.io/react-icons/) - Used for tooltip
-- [react-toastify](https://www.docker.com/) - Used for toast notifications
-- [yup](https://www.docker.com/) - Used for form validation
+- [TailwindCSS](https://tailwindcss.com/) - Used for Styling in CSS
+- [react-hook-form](https://www.npmjs.com/package/react-hook-form) - Used for form handling
+- [hookform/resolvers](https://www.npmjs.com/@hookform/resolvers) - Used for form validation
+- [react-timer-hook](https://www.npmjs.com/react-timer-hook) - Used for timer clok
+- [react-tippy](https://www.npmjs.com/react-tippy) - Used for tooltip
+- [react-toastify](https://www.npmjs.com/react-toastify) - Used for toast notifications
+- [yup](https://www.npmjs.com/yup) - Used for form validation
 
-  ## 📌 Back-End Libraries used 🛠️
+## 📌 Other Back-End Libraries used 🛠️
 
-5. ### Deployed Live Link
+- [cookie-parser](https://www.npmjs.com/cookie-parser) - Used for parsing cookie token
+- [cookie-session](https://www.npmjs.com/cookie-session) - Used for handling cookie
+- [cors](https://www.npmjs.com/cors) - Used for handling cors error
+- [dotenv](https://www.npmjs.com/dotenv) - Used for handling dotenv file
+- [jsonwebtoken](https://www.npmjs.com/jsonwebtoken) - Used to generate cookie
+- [morgan](https://www.npmjs.com/morgan) - Used to request in console.log
+- [validator](https://www.npmjs.com/validator) - Used for form validation
+
+1. ### Deployed Live Link
    [Visit Website](https://sayande.tech/)
 
 ## 📌 Sneak Peek of Main Page:
@@ -104,9 +106,5 @@ $ npm start
 ```
 
 Once your server has started, go to this url `http://localhost:3000/` and you will see the website running on a Development Server.
-
-### 📌 Contact 📬
-
-For any query, email sayandeten@gmail.com.
 
 Thanks!
