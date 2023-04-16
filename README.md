@@ -8,26 +8,28 @@
 | 4   | [Mention the tech stack you are using.](#mention-the-tech-stack-you-are-using)                   |
 | 5   | [Deployed Live Link](#deployed-Live-Link)                                                        |
 
-1. ### Our respective problem statement
-2. ### Our team name and details
+### 1. Our respective problem statement
 
-   | Name                  | Roles                 | GitHub                                      | Email                                   |
-   | --------------------- | --------------------- | ------------------------------------------- | --------------------------------------- |
-   | Ayan De (Team Leader) | Back-End Development  | [Ayan](https://github.com/ayan-de)          | [Ayan](mailto:deayan252@gmail.com)      |
-   | Sayan De              | Front-End Development | [Sayan](https://github.com/sayande2002)     | [Sayan](mailto:sayandeten@gmail.com)    |
-   | Ujjal Manna           | UI Development        | [Ujjal](https://github.com/UJJALMANNA)      | [Ujjal](mailto:mannaujjal683@gmail.com) |
-   | Sovan Bakshi          | UX Development        | [Sovan](https://github.com/sovanbakshi2004) | [Sovan](mailto:bakshisovan1@gmail.com)  |
+### 2. Our team name and details
 
-3. ### Our idea and approach used in implementing it
-4. ### Mention the tech stack you are using
+| Name                  | Roles                 | GitHub                                      | Email                                   |
+| --------------------- | --------------------- | ------------------------------------------- | --------------------------------------- |
+| Ayan De (Team Leader) | Back-End Development  | [Ayan](https://github.com/ayan-de)          | [Ayan](mailto:deayan252@gmail.com)      |
+| Sayan De              | Front-End Development | [Sayan](https://github.com/sayande2002)     | [Sayan](mailto:sayandeten@gmail.com)    |
+| Ujjal Manna           | UI Development        | [Ujjal](https://github.com/UJJALMANNA)      | [Ujjal](mailto:mannaujjal683@gmail.com) |
+| Sovan Bakshi          | UX Development        | [Sovan](https://github.com/sovanbakshi2004) | [Sovan](mailto:bakshisovan1@gmail.com)  |
 
-   ## 📌 Main Technologies used 🛠️
+### 3. Our idea and approach used in implementing it
 
-   - [MongoDB](https://reactjs.org) - Database
-   - [ExpressJS](https://reactjs.org) - NodeJs Framework
-   - [ReactJS](https://reactjs.org) - Javascript library for Front-End
-   - [NodeJS](https://reactjs.org) - Javascript library for Back-End
-   - [Mongoose](https://reactjs.org) - MongoDB Framework
+### 4. Mention the tech stack you are using
+
+## 📌 Main Technologies used 🛠️
+
+- [MongoDB](https://reactjs.org) - Database
+- [ExpressJS](https://reactjs.org) - NodeJs Framework
+- [ReactJS](https://reactjs.org) - Javascript library for Front-End
+- [NodeJS](https://reactjs.org) - Javascript library for Back-End
+- [Mongoose](https://reactjs.org) - MongoDB Framework
 
 ## 📌 Other Front-End Libraries used 🛠️
 
@@ -47,11 +49,12 @@
 - [cors](https://www.npmjs.com/cors) - Used for handling cors error
 - [dotenv](https://www.npmjs.com/dotenv) - Used for handling dotenv file
 - [jsonwebtoken](https://www.npmjs.com/jsonwebtoken) - Used to generate cookie
-- [morgan](https://www.npmjs.com/morgan) - Used to request in console.log
+- [morgan](https://www.npmjs.com/morgan) - Used to see requests in console.log
 - [validator](https://www.npmjs.com/validator) - Used for form validation
 
-1. ### Deployed Live Link
-   [Visit Website](https://sayande.tech/)
+### 5. Deployed Live Link
+
+[Visit Website](https://sayande.tech/)
 
 ## 📌 Sneak Peek of Main Page:
 
