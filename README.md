@@ -92,7 +92,11 @@ There are two subsystems of the Playground:
     display: flex;
     gap: 1rem;
 ">
+
 <h1> Startup Page</h1>
+  <img src="https://user-images.githubusercontent.com/107565578/232365835-6da1c6d5-8b3c-464a-a734-de72931ef968.png" alt="Home Page" width="70%">
+  
+<h1> Rules Page</h1>
   <img src="https://user-images.githubusercontent.com/107565578/232357619-18854421-12b7-4b11-9986-2ff0cf7e9d4b.png" alt="Home Page" width="70%">
 
 
