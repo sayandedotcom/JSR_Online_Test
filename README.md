@@ -1,7 +1,7 @@
 <p align='center'><img src="https://user-images.githubusercontent.com/59247285/232352675-3717f79c-f39d-420a-8222-13a4bd5c7ae8.jpg"
  width="150" ></p>
 <h1 align='center'> JSR Online Exam</h1>
-[Live Link.](https://online-test-one.vercel.app/)  
+[Live Link](https://online-test-one.vercel.app/)  
 
 <p align='center'>
 Online test proctoring refers to the use of technology to monitor and supervise students taking tests or exams remotely. It is a way to prevent cheating and maintain the integrity of online assessments.
