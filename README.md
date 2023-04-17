@@ -89,11 +89,10 @@ There are two subsystems of the Playground:
     display: flex;
     gap: 1rem;
 ">
-<h1> Light Mode </h1>
-  <img src="https://user-images.githubusercontent.com/107565578/209658089-85462f6e-7550-428d-9000-965e2c56e526.png" alt="Home Page" width="70%">
-<h1> Dark Mode </h1>
-  <img src="https://user-images.githubusercontent.com/107565578/209658335-d8301a73-b17b-40e4-a199-818a1e3ef4d8.png" alt="Home Page In Dark Mode" width="70%">
-</div>
+<h1> Startup Page</h1>
+  <img src="![Screenshot (249)](https://user-images.githubusercontent.com/107565578/232357619-18854421-12b7-4b11-9986-2ff0cf7e9d4b.png)
+" alt="Home Page" width="70%">
+
 
 ## 📌 Getting Started 🚀
 
