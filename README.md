@@ -93,8 +93,7 @@ There are two subsystems of the Playground:
     gap: 1rem;
 ">
 <h1> Startup Page</h1>
-  <img src="![Screenshot (249)](https://user-images.githubusercontent.com/107565578/232357619-18854421-12b7-4b11-9986-2ff0cf7e9d4b.png)
-" alt="Home Page" width="70%">
+  <img src="https://user-images.githubusercontent.com/107565578/232357619-18854421-12b7-4b11-9986-2ff0cf7e9d4b.png" alt="Home Page" width="70%">
 
 
 ## 📌 Getting Started 🚀
